@@ -8,7 +8,7 @@ LPhyModel:
 	{LPhyModel}
 	('package' package=QualifiedName)?
 	importSection=XImportSection?
-	'model' name=ID '{'
+	'model' name=ID  ('(' (parameters += ID) ( ',' parameters += ID)* ')')?   '{'
     (lawNodes += LawNode)*
     '}'
 ;
