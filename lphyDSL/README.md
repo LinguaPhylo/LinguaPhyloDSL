@@ -1,11 +1,6 @@
 # lphyDSL
-An attempt to produce a compiler and interpreter for the LPhy language using Xtext
 
-## Java 11
-
-From the version 2.24, Xtext and Xtend will depend on Java 11.
-
-https://www.eclipse.org/xtend/releasenotes.html#/releasenotes/2020/09/01/version-2-23-0
+The core base.
 
 ## Core files
 
