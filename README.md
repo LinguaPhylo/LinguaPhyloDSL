@@ -34,3 +34,10 @@ The above text is modified from [Xtext 15 Minutes Tutorial](https://www.eclipse.
 
 - Do not click on the checkbox "Copy projects into workspace". Otherwise you will have this problem : 
 [Eclipse Not Importing Projects](https://stackoverflow.com/questions/19666049/eclipse-not-importing-projects)
+
+## Links
+
+- [Xtext 15 Minutes Tutorial](https://www.eclipse.org/Xtext/documentation/102_domainmodelwalkthrough.html)
+
+- [Xtend](https://www.eclipse.org/xtend/)
+
