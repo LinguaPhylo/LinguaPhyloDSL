@@ -18,15 +18,15 @@ https://www.eclipse.org/xtend/releasenotes.html#/releasenotes/2020/09/01/version
 
 ## Import projects
 
-File => Import ... => General => Exsiting Projects into Workspace 
+`File => Import ... => General => Exsiting Projects into Workspace` 
 
 ## Generate LPhy artifacts
 
-Right-click on the grammar file [LPhy.xtext](https://github.com/LinguaPhylo/lphyDSL/blob/main/src/lphy/dsl/LPhy.xtext) from either Project Explorer or Package Explorer, then Run As => Generate Xtext Artifacts.
+Right-click on the grammar file [LPhy.xtext](https://github.com/LinguaPhylo/lphyDSL/blob/main/src/lphy/dsl/LPhy.xtext) from either Project Explorer or Package Explorer, then `Run As => Generate Xtext Artifacts`.
 
 ## Run the generated Eclipse plug-in
 
-Right-click on the project lphyDSL in the Package Explorer and select Run As => Eclipse Application. In the new Eclipse instance including LPhy, create a new project, e.g. File => New => Project ... => Java Project, and then create a new file with the file extension (*.lphy). 
+Right-click on the project lphyDSL in the Package Explorer and select `Run As => Eclipse Application`. In the new Eclipse instance including LPhy, create a new project, e.g. `File => New => Project ... => Java Project`, and then create a new file with the file extension (*.lphy). 
 
 The above text is modified from [Xtext 15 Minutes Tutorial](https://www.eclipse.org/Xtext/documentation/102_domainmodelwalkthrough.html)
 
