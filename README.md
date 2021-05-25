@@ -1,5 +1,5 @@
-# lphyDSL
-An attempt to produce a compiler and interpreter for the LPhy language using Xtext
+# linguaPhyloDSL
+The core to produce a compiler and interpreter for the LPhy language using Xtext
 
 ## Java 11
 
@@ -7,16 +7,18 @@ From the version 2.24, Xtext and Xtend will depend on Java 11.
 
 https://www.eclipse.org/xtend/releasenotes.html#/releasenotes/2020/09/01/version-2-23-0
 
-## Core files
+## Sub-projects
 
-- the grammar file [LPhy.xtext](https://github.com/LinguaPhylo/lphyDSL/blob/main/src/lphy/dsl/LPhy.xtext)
-- the code generator workflow [GenerateLPhy.mwe2](https://github.com/LinguaPhylo/lphyDSL/blob/main/src/lphy/dsl/GenerateLPhy.mwe2)
+1. **lphyDSL** 
+   The core base of LPhy. 
 
-## Links
+2. **lphyDSL.ide**
 
-- [Xtext 15 Minutes Tutorial](https://www.eclipse.org/Xtext/documentation/102_domainmodelwalkthrough.html)
+3. **lphyDSL.ui**
 
-- [Xtend](https://www.eclipse.org/xtend/)
+## Import projects
+
+File => Import ... => General => Exsiting Projects into Workspace 
 
 ## Eclipse Issues
 
