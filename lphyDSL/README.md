@@ -7,11 +7,6 @@ The core base.
 - the grammar file [LPhy.xtext](https://github.com/LinguaPhylo/lphyDSL/blob/main/src/lphy/dsl/LPhy.xtext)
 - the code generator workflow [GenerateLPhy.mwe2](https://github.com/LinguaPhylo/lphyDSL/blob/main/src/lphy/dsl/GenerateLPhy.mwe2)
 
-## Links
-
-- [Xtext 15 Minutes Tutorial](https://www.eclipse.org/Xtext/documentation/102_domainmodelwalkthrough.html)
-
-- [Xtend](https://www.eclipse.org/xtend/)
 
 ## Eclipse Issues
 
