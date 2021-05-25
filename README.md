@@ -9,7 +9,7 @@ https://www.eclipse.org/xtend/releasenotes.html#/releasenotes/2020/09/01/version
 
 ## Sub-projects
 
-1. **lphyDSL** 
+1. [**lphyDSL**](https://github.com/LinguaPhylo/linguaPhyloDSL/tree/main/lphyDSL) 
    The core base of LPhy. 
 
 2. **lphyDSL.ide**
